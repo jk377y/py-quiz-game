@@ -1,0 +1,152 @@
+[
+    {
+        "question": "What is the output of the following Python code?\n\nprint(2 + 2)",
+        "choices": ["2", "4", "22", "None of the above"],
+        "correct_choice": 2
+    },
+    {
+        "question": "Which of the following is a JavaScript framework?",
+        "choices": ["Python", "Django", "React", "Flask"],
+        "correct_choice": 3
+    },
+    {
+        "question": "What is the correct way to define a variable in Python?",
+        "choices": ["variable name = value", "name = value", "var name = value", "value = variable name"],
+        "correct_choice": 2
+    },
+    {
+        "question": "What is the symbol for single-line comments in JavaScript?",
+        "choices": ["//", "/* */", "#", "%%"],
+        "correct_choice": 1
+    },
+    {
+        "question": "What is the output of the following Python code?\n\nprint('Hello, ' + 'World!')",
+        "choices": ["Hello, World!", "Hello, + World!", "HelloWorld!", "None of the above"],
+        "correct_choice": 1
+    },
+    {
+        "question": "Which method is used to add an element to the end of a Python list?",
+        "choices": ["append()", "insert()", "extend()", "add()"],
+        "correct_choice": 1
+    },
+    {
+        "question": "What is the purpose of the 'document' object in JavaScript?",
+        "choices": ["To represent the current web page", "To perform mathematical calculations", "To style HTML elements", "To handle server-side operations"],
+        "correct_choice": 1
+    },
+    {
+        "question": "Which keyword is used to define a function in Python?",
+        "choices": ["func", "method", "def", "function"],
+        "correct_choice": 3
+    },
+    {
+        "question": "What is the result of the following JavaScript expression?\n\n5 == '5'",
+        "choices": ["true", "false", "undefined", "TypeError"],
+        "correct_choice": 1
+    },
+    {
+        "question": "Which of the following is used to declare a constant variable in JavaScript?",
+        "choices": ["var", "let", "const", "def"],
+        "correct_choice": 3
+    },
+    {
+        "question": "What is the output of the following Python code?\n\nprint(len('Hello'))",
+        "choices": ["1", "5", "6", "None of the above"],
+        "correct_choice": 2
+    },
+    {
+        "question": "Which method is used to remove an element from a Python list?",
+        "choices": ["remove()", "pop()", "delete()", "discard()"],
+        "correct_choice": 1
+    },
+    {
+        "question": "What is the purpose of the 'console.log()' function in JavaScript?",
+        "choices": ["To log messages to the console", "To display alerts", "To execute JavaScript code", "To define variables"],
+        "correct_choice": 1
+    },
+    {
+        "question": "Which Python data type is used to store an ordered collection of elements?",
+        "choices": ["list", "tuple", "set", "dictionary"],
+        "correct_choice": 1
+    },
+    {
+        "question": "What is the result of the following JavaScript expression?\n\ntypeof null",
+        "choices": ["null", "object", "undefined", "TypeError"],
+        "correct_choice": 2
+    },
+    {
+        "question": "What does HTML stand for?",
+        "choices": ["Hyper Text Markup Language", "Home Tool Markup Language", "Hyperlinks and Text Markup Language", "Hyperlinks and Tags Markup Language"],
+        "correct_choice": 1
+    },
+    {
+        "question": "Which tag is used to define an unordered list in HTML?",
+        "choices": ["<ul>", "<ol>", "<li>", "<dl>"],
+        "correct_choice": 1
+    },
+    {
+        "question": "Which property is used to change the font size of an element in CSS?",
+        "choices": ["font-size", "text-size", "font-style", "text-style"],
+        "correct_choice": 1
+    },
+    {
+        "question": "Which attribute is used to specify a target URL for a hyperlink in HTML?",
+        "choices": ["href", "src", "target", "link"],
+        "correct_choice": 1
+    },
+    {
+        "question": "Which CSS property is used to change the color of text?",
+        "choices": ["color", "text-color", "font-color", "text-style"],
+        "correct_choice": 1
+    },
+    {
+        "question": "Which tag is used to define a table row in HTML?",
+        "choices": ["<table>", "<td>", "<tr>", "<th>"],
+        "correct_choice": 3
+    },
+    {
+        "question": "Which CSS property is used to add space between the border and content of an element?",
+        "choices": ["padding", "margin", "border", "spacing"],
+        "correct_choice": 1
+    },
+    {
+        "question": "Which tag is used to define a level-one heading in HTML?",
+        "choices": ["<h1>", "<h2>", "<h3>", "<h4>"],
+        "correct_choice": 1
+    },
+    {
+        "question": "Which CSS property is used to make text bold?",
+        "choices": ["font-weight", "text-decoration", "font-style", "font-variant"],
+        "correct_choice": 1
+    },
+    {
+        "question": "Which tag is used to define a division or section in HTML?",
+        "choices": ["<div>", "<section>", "<article>", "<span>"],
+        "correct_choice": 1
+    },
+    {
+        "question": "Which CSS property is used to align text horizontally?",
+        "choices": ["text-align", "alignment", "text-style", "text-decoration"],
+        "correct_choice": 1
+    },
+    {
+        "question": "Which attribute is used to specify an image source in HTML?",
+        "choices": ["src", "href", "link", "img-src"],
+        "correct_choice": 1
+    },
+    {
+        "question": "Which CSS property is used to add a background color to an element?",
+        "choices": ["background-color", "color", "background", "background-style"],
+        "correct_choice": 1
+    },
+    {
+        "question": "Which tag is used to define a level-two heading in HTML?",
+        "choices": ["<h2>", "<h1>", "<h3>", "<h4>"],
+        "correct_choice": 1
+    },
+    {
+        "question": "Which CSS property is used to change the spacing between lines of text?",
+        "choices": ["line-height", "text-spacing", "letter-spacing", "line-spacing"],
+        "correct_choice": 1
+    }
+]
